@@ -29,8 +29,7 @@
 ---
 
 ## 📫 Entre em contato comigo
-📧 **E-mail:** derick.orcelino@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/derick-eduardo](https://linkedin.com/in/derick-eduardo)  
+📧 **E-mail:** derickeduardo22@gmail.com   
 📦 **Portfólio:** [github.com/derick-cloud](https://github.com/derick-cloud)
 
 ---
