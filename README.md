@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Derick Eduardo dos Santos Orcelino
 
-<!--
-**derick-cloud/derick-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas**  
+💻 Desenvolvedor focado em **Back-end**, **Banco de Dados** e **Integração Web**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que domino
+- 💡 **Linguagens:** C#, JavaScript, SQL  
+- ⚙️ **Back-end:** Node.js, Express  
+- 🗄️ **Banco de Dados:** MySQL, SQLite  
+- 🌐 **Front-end:** HTML, CSS, Bootstrap  
+- 🧰 **Ferramentas:** VS Code, MySQL Workbench, Git/GitHub  
+
+---
+
+## 🧩 Projetos em destaque
+- [🌍 PBR-ADS-2024-2-P1-DoeMais](https://github.com/derick-cloud/PBR-ADS-2024-2-P1-DoeMais) — Sistema de doações entre empresas e ONGs  
+- [📋 Lista de Tarefas](https://github.com/derick-cloud/lista-de-tarefa) — CRUD completo em Node.js e MySQL  
+- [🕒 Timezone](https://github.com/derick-cloud/timezone) — App simples para conversão de fusos horários  
+
+---
+
+## 📈 O que estou aprendendo agora
+- Integração entre **Node.js e MySQL**  
+- Desenvolvimento de **APIs RESTful**  
+- Modelagem e otimização de **bancos de dados relacionais**  
+
+---
+
+## 📫 Entre em contato comigo
+📧 **E-mail:** derick.orcelino@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/derick-eduardo](https://linkedin.com/in/derick-eduardo)  
+📦 **Portfólio:** [github.com/derick-cloud](https://github.com/derick-cloud)
+
+---
+
+> 💬 “A melhor forma de aprender é construir algo útil.”
