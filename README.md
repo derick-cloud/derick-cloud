@@ -30,7 +30,7 @@
 
 ## 📫 Entre em contato comigo
 📧 **E-mail:** derickeduardo22@gmail.com   
-📦 **Portfólio:** [github.com/derick-cloud](https://github.com/derick-cloud)
+📦 **Portfólio:** https://derickcloud.github.io/meu-portifolio/
 
 ---
 
